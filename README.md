@@ -17,8 +17,7 @@
 <b>Containerised using Docker </b> <br>
 
 ## LSTM Model
-The <b>LSTM model</b> developed and used in the web-app to generate the captions can be found in this repo : https://github.com/AmritK10/Image_Captioning
-
+The <b>LSTM model</b> developed and used in the web-app to generate the captions 
 # Getting Started
 ## Requirements: Have Docker intstalled
 ## Terminal Window
